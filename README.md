@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Connor 👋
+
+- 🔭 I’m currently working on MalDevAcademy, OSCP, and building out my GitHub README
+- 👯 I’m looking to collaborate on anything Red Team or Offensive Security related
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
