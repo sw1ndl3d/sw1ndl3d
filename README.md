@@ -1,15 +1,28 @@
-<p align="center">
-<img width="200" height="200" src="![giphy](https://github.com/sw1ndl3d/sw1ndl3d/assets/81738199/2c789f2d-2a59-4920-ae55-9891b5b17e7a)" alt="my banner">
-</p>
+<div id="banner" align="center">
+  <img src="https://media.giphy.com/media/uAQm7xzHC0OB2VnSz4/giphy.gif" alt="my banner" width="175" height="200"/>
+</div>
 
 ### Hi there, I'm Connor 👋
 
 - 🔭 I’m currently working on MalDevAcademy, OSCP, and building out my GitHub README
 - 👯 I’m looking to collaborate on anything Red Team or Offensive Security related
 
-#### Other places to find me:
+#### Connect with me at:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/connor-h-1879801ab)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/connor-h-1879801ab">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+#### 🛠️ Languages andd Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+</div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
