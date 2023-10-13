@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on MalDevAcademy, OSCP, and building out my GitHub README
 - 👯 I’m looking to collaborate on anything Red Team or Offensive Security related
-- ☣️ Apologies for the baren repos, I have kept most of them private, as I have been nervous of what people may think of my notes and work! I will be work-shopping this!
+- ☣️ Apologies for the barren repos, I have kept most of them private, as I have been nervous of what people may think of my notes and work! I will be work-shopping this!
 
 #### Connect with me at:
 
