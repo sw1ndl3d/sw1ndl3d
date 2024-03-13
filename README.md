@@ -8,14 +8,6 @@
 - 👯 I’m looking to collaborate on anything Red Team or Offensive Security related
 - ☣️ Apologies for the barren repos, I have kept most of them private, as I have been nervous of what people may think of my notes and work! I will be work-shopping this!
 
-#### Connect with me at:
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/connor-h-1879801ab">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 #### 🛠️ Languages andd Tools:
 
 <div>
