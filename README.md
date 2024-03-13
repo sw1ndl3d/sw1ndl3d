@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on anything Red Team or Offensive Security related
 - ☣️ Apologies for the barren repos, I have kept most of them private, as I have been nervous of what people may think of my notes and work! I will be work-shopping this!
 
-#### 🛠️ Languages andd Tools:
+#### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
