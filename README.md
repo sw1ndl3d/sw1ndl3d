@@ -1,35 +1,49 @@
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/uAQm7xzHC0OB2VnSz4/giphy.gif" alt="my banner" width="175" height="200"/>
+<img src="https://media.giphy.com/media/uAQm7xzHC0OB2VnSz4/giphy.gif" width="200"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Red+Team+Ops;Malware+Development;Adversary+Simulation;Always+Learning...)](https://git.io/typing-svg)
+
+---
+
+![Status](https://img.shields.io/badge/Status-Exploit_Dev-black?style=for-the-badge&logo=ghost)
+![Focus](https://img.shields.io/badge/Focus-Red%20Team-red?style=for-the-badge&logo=protonvpn)
+![Learning](https://img.shields.io/badge/Learning-MalDev-green?style=for-the-badge&logo=linux)
+![Ops](https://img.shields.io/badge/Ops-OffSec-blueviolet?style=for-the-badge&logo=kalilinux)
+
 </div>
 
-### Hi there, I'm Connor 👋
+---
 
-- 🔭 I’m currently working on MalDevAcademy, OSCP, and building out my GitHub README
-- 👯 I’m looking to collaborate on anything Red Team or Offensive Security related
-- ☣️ Apologies for the barren repos, I have kept most of them private, as I have been nervous of what people may think of my notes and work! I will be work-shopping this!
+### 🕶️ Access Granted: Connor Logged In
+- 🔴 Red Team Operator  
+- 🧪 Malware Development Apprentice  
+- ☣ Offensive Security Enthusiast  
+- 👀 Curious about all things adversary emulation
 
-#### 🛠️ Languages and Tools:
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-</div>
+### ⚔️ Arsenal
 
+C2 Frameworks : Cobalt Strike | Sliver | Merlin
+Languages : Python | PowerShell | Bash
+Cloud & Infra : AWS | Docker
+Tradecraft : BOF development/modification | BloodHound | BurpSuite | Wireshark | Nmap
+
+---
+
+### 📊 GitHub Intelligence Feeds
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw1ndl3d&show_icons=true&theme=radical&bg_color=000000&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sw1ndl3d&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)  
+
+---
+
+### 📜 Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!--
-**sw1ndl3d/sw1ndl3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+⚠️ **Note:** Most of my repos are private.  
+Expect **PoCs**, **research notes**, and **operator tradecraft** to appear over time.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’re into malware dev, adversary simulation, or Red Team ops…  
+stick around, you’re in the right place. 🕶️
