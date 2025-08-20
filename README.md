@@ -1,7 +1,7 @@
 <div id="banner" align="center">
 <img src="https://media.giphy.com/media/uAQm7xzHC0OB2VnSz4/giphy.gif" width="200"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Red+Team+Ops;Malware+Development;Adversary+Simulation;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Red+Team+Ops;Malware+Development;Adversary+Emulation;Always+Learning...)](https://git.io/typing-svg)
 
 ---
 
@@ -24,16 +24,10 @@
 
 ### ⚔️ Arsenal
 
-C2 Frameworks : Cobalt Strike | Sliver | Merlin
-Languages : Python | PowerShell | Bash
-Cloud & Infra : AWS | Docker
-Tradecraft : BOF development/modification | BloodHound | BurpSuite | Wireshark | Nmap
-
----
-
-### 📊 GitHub Intelligence Feeds
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw1ndl3d&show_icons=true&theme=radical&bg_color=000000&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sw1ndl3d&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)  
+**C2 Frameworks:** Cobalt Strike | Sliver | Merlin <br>
+**Languages:** Python | PowerShell | Bash <br>
+**Cloud & Infra:** AWS | Docker <br>
+**Tradecraft:** BOF development/modification | BloodHound | BurpSuite | Wireshark | Nmap <br>
 
 ---
 
@@ -47,3 +41,7 @@ Expect **PoCs**, **research notes**, and **operator tradecraft** to appear over 
 
 If you’re into malware dev, adversary simulation, or Red Team ops…  
 stick around, you’re in the right place. 🕶️
+
+<pre align="center">
+~|~ |-| [-   /\ |\| () |\/| /\ |_ `/
+</pre>
